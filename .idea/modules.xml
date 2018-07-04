@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../ESIworkspace/.idea/ESIworkspace.iml" filepath="$PROJECT_DIR$/../ESIworkspace/.idea/ESIworkspace.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/changeName.iml" filepath="$PROJECT_DIR$/.idea/changeName.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../wangyi_spider/new_wyyt/.idea/new_wyyt.iml" filepath="$PROJECT_DIR$/../wangyi_spider/new_wyyt/.idea/new_wyyt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../rookieShopping/.idea/rookieShopping.iml" filepath="$PROJECT_DIR$/../rookieShopping/.idea/rookieShopping.iml" />
+    </modules>
+  </component>
+</project>
